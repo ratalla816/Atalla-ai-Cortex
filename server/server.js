@@ -38,7 +38,7 @@ app.post('/', async (req, res) => {
         model: "gpt-3.5-turbo-instruct",
         // model: "text-davinci-003", // select one of the AI models from the openai website - this one handles text as well as code
       prompt: `${prompt}`,
-      temperature: 2, // Higher numbers could generate responses that are nonsense. Low numbers typically mean more concise and accurate responses. 
+      temperature: 1, // Higher numbers could generate responses that are nonsense. Low numbers typically mean more concise and accurate responses. 
       max_tokens: 3000, // Determines the length of the response
       top_p: 1, // like temperature but uses a process called nucleus sampling, lower values should lead to higher quality responses. 
       frequency_penalty: 0.5, // should be between -2.0 and 2.0. Higher positive values decrease the likelihood of repeating the same answers.
