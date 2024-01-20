@@ -1,18 +1,18 @@
 
-# Atalla ai 
+# Cortex - by Atalla ai 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ratalla816/Atalla-ai)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ratalla816/Atalla-ai-Cortex)
   <br>
   <br>
-  ![badge](https://img.shields.io/github/languages/top/ratalla816/Atalla-ai)
+  ![badge](https://img.shields.io/github/languages/top/ratalla816/Atalla-ai-Cortex)
   <br> 
-  ![badge](https://img.shields.io/github/languages/count/ratalla816/Atalla-ai)
+  ![badge](https://img.shields.io/github/languages/count/ratalla816/Atalla-ai-Cortex)
   <br>
-  ![badge](https://img.shields.io/github/issues/ratalla816/Atalla-ai)
+  ![badge](https://img.shields.io/github/issues/ratalla816/Atalla-ai-Cortex)
   <br>
-  ![badge](https://img.shields.io/github/issues-closed/ratalla816/Atalla-ai)
+  ![badge](https://img.shields.io/github/issues-closed/ratalla816/Atalla-ai-Cortex)
   <br>
-  ![badge](https://img.shields.io/github/last-commit/ratalla816/Atalla-ai)
+  ![badge](https://img.shields.io/github/last-commit/ratalla816/Atalla-ai-Cortex)
   <br>
   ![badge](https://img.shields.io/badge/license-MIT-important)
   
@@ -40,7 +40,7 @@
 
   ## Deployment
 
-  The backend is deployed using Render https://atalla-ai.onrender.com and the frontend is deployed using Vercel https://atalla-ai.vercel.app/
+  <!-- The backend is deployed using Render https://Atalla-ai-Cortex.onrender.com and the frontend is deployed using Vercel https://Atalla-ai-Cortex.vercel.app/ -->
  
   ## Usage
 
@@ -53,10 +53,10 @@
  
 
   ## Screenshot
-  ![Screenshot](./assets/images/)
+  <!-- ![Screenshot](./assets/images/)
   <br>
   <br>
-  ![Screenshot](./assets/images/)
+  ![Screenshot](./assets/images/) -->
   
   
 
