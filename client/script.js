@@ -88,7 +88,7 @@ const handleSubmit = async (e) => {
     loader(messageDiv)
 
     // Fetch data from server (Bot response)
-    const response = await fetch('https://atalla-ai.onrender.com/', {
+    const response = await fetch('https://atalla-ai-cortex.onrender.com', {
         // ('http://localhost:5000',
         method: 'POST',
         headers: {
