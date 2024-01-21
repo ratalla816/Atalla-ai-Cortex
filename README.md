@@ -41,6 +41,7 @@
   ## Deployment
 
   The backend is deployed using Render https://atalla-ai-cortex.onrender.com and the frontend is deployed using Vercel https://atalla-ai-cortex.vercel.app/
+  <!-- https://atalla-ai-cortex-jj9wmn25n-ratalla816s-projects.vercel.app/ -->
  
   ## Usage
 
@@ -58,6 +59,7 @@
   <br>
   ![Screenshot](./assets/images/) -->
   https://github.com/ratalla816/Atalla-ai-Cortex
+  https://atalla-ai-cortex-jj9wmn25n-ratalla816s-projects.vercel.app/
   
 
   ## Features
