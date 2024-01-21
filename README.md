@@ -60,8 +60,8 @@
   <br>
   <br>
   ![Screenshot](./assets/images/) -->
-  https://github.com/ratalla816/Atalla-ai-Cortex
-  https://atalla-ai-cortex-jj9wmn25n-ratalla816s-projects.vercel.app/
+  <!-- https://github.com/ratalla816/Atalla-ai-Cortex
+  https://atalla-ai-cortex-jj9wmn25n-ratalla816s-projects.vercel.app/ -->
   
 
   ## Features
@@ -71,8 +71,11 @@
   # Acknowledgements
   
   * JavaScript Mastery, "Build and Deploy Your Own ChatGPT AI App in JavaScript" https://www.youtube.com/watch?v=2FeymQoKvrk
+  <!-- * User Chat Bubble <a href='https://dryicons.com/free-graphics/chat-bubble'> Icon by Dryicons </a>
+  * Favicon.ico <a href='https://playgroundai.com/post/cute-little-robot-sitting-in-front-of-laptop-unreal-engine-clo79v3ch014ks6018rr8bmw2'> "Cute little robot sitting in front of laptop" by 행복사 </a> -->
   * User Chat Bubble <a href='https://dryicons.com/free-graphics/chat-bubble'> Icon by Dryicons </a>
   * Favicon.ico <a href='https://playgroundai.com/post/cute-little-robot-sitting-in-front-of-laptop-unreal-engine-clo79v3ch014ks6018rr8bmw2'> "Cute little robot sitting in front of laptop" by 행복사 </a>
+
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-important)
