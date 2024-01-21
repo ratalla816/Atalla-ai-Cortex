@@ -1,7 +1,8 @@
 
 
-import bot from './assets/robot.png'
-import user from './assets/blueUser.png'
+// import bot from './assets/robot.png'
+import bot from './assets/cortex.png'
+import user from './assets/astroman.png'
 
 const form = document.querySelector('form')
 const chatContainer = document.querySelector('#chat_container')
