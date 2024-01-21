@@ -18,7 +18,9 @@
   
   ## Description
    
-   Chatbot that imports two images, one for the user and one for the bot. It then creates a loading animation, types out the bot's response one letter at a time, and generates a unique ID for each response. It also has an event listener that calls the handleSubmit function when the enter key is pressed. This function sends data to a server, clears the textarea input, and displays the bot's response in the chat container.
+   Cortex is the next generation of Atalla ai powered by GPT-3.5. Cortex has been optimized to provide creative, highly detailed responses - sometimes delivered with a sense of humor!<br>
+   The functionality and UI remains virtually unchanged from the previous version: https://atalla-ai.vercel.app<br>
+   Once the user submits their question the app imports two images, one for the user and one for the bot. It then creates a loading animation, types out the bot's response one letter at a time, and generates a unique ID for each response. It also has an event listener that calls the handleSubmit function when the enter key is pressed. This function sends data to a server, clears the textarea input, and displays the bot's response in the chat container.
    
  
   ## Table of Contents
